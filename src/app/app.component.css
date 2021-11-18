@@ -1,0 +1,16 @@
+.header {
+    background-color: red;
+    color: white;
+    height: 22px;
+}
+
+.galleryContainer {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.images {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
